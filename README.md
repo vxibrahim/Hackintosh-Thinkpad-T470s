@@ -31,7 +31,7 @@ Personally, I will recommend you to make your own EFI like I did using [Dortania
 ## What's working?
 
 - iServices (iCloud, iMessage, Facetime, Photos, etc)
-- Laptop keyboard (with backlight0 & touchpad (with gestures)
+- Laptop keyboard (with backlight) & touchpad (with gestures)
 - Sleep/wake (sometimes touchpad doesnt work after long sleep, just restart)
 - GPU acceleration
 - Mic and Audio (Issue and temporary fix listed below)
