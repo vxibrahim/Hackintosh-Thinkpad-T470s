@@ -14,7 +14,7 @@ Personally, I will recommend you to make your own EFI as that way you will actua
 
 :warning: Please do read the hardware info before attempting to use EFI, good chance of not working if it doesnt match (except ram and storage etc)
 
-:warning: I am not responsible for responsible for any broken laptops if you mess it up while using it 😛
+:warning: I am not responsible for any broken laptops if you mess it up while using it 😛
 
 ## Hardware Info
 |Hardware|Specifications|
