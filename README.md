@@ -1,4 +1,5 @@
 ## PLEASE READ THE SPECIFICATIONS BEFORE ATTEMPTING TO USE MY EFI
+You can download it as a ZIP file or go through the repo to pick specific files.
 
 # EFI for Hackintosh-Thinkpad-T470s
 Hackintosh Lenovo Thinkpad T470's created with Dortania's open core guide, running macOS Monterey 12.7.6.
