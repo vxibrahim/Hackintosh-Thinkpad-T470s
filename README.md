@@ -1,17 +1,17 @@
-## PLEASE READ THE SPECIFICATIONS BEFORE ATTEMPTING TO USE MY EFI
-
-# :warning: USE PROPERTREE TO EDIT **CONFIG.PLIST** AND USE **GENSMBIOS** TO PUT YOUR OWN **PLATFORM ID INFORMATION**, without it **YOU CANNOT SIGN IN TO APPLE SERVICES**
+# PLEASE READ THE DETAILS SECTION BEFORE ATTEMPTING TO USE MY EFI
 
 # EFI for Hackintosh-Thinkpad-T470s
 Hackintosh Lenovo Thinkpad T470's created with Dortania's open core guide, running macOS Monterey 12.7.6.
 
 ![Monterey Screenshot](https://9to5mac.com/wp-content/uploads/sites/6/2022/01/install-macos-monterey-beta.jpg?quality=82&strip=all)
 
-Personally, I will recommend you to make your own EFI as that way you will actually learn how to fix issues that come up, this is a shortcut and teaches you nothing and might leave you confused if you encounter issues.
+Personally, I will recommend you to make your own EFI as that way you will actually learn how to fix issues that come up, this is a shortcut and teaches you nothing and might leave you confused if you encounter issues. You can download it as a ZIP file or go through the repo to pick specific files.
 
-You can download it as a ZIP file or go through the repo to pick specific files.
-
-> :warning: I am not responsible for responsible for any broken laptops if you mess it up while using it 😛
+## DETAILS (IMPORTANT)
+:warning: USE PROPERTREE TO EDIT **CONFIG.PLIST** AND USE **GENSMBIOS** TO PUT YOUR OWN **PLATFORM ID INFORMATION**, without it **YOU CANNOT SIGN IN TO APPLE SERVICES**
+:warning: This is not a complete EFI, donot use as is, just replace the folders in your own efi with mine when using (USE UR BRAIN)
+:warning: Please do read the hardware info before attempting to use EFI, good chance of not working if it doesnt match (except ram and storage etc)
+:warning: I am not responsible for responsible for any broken laptops if you mess it up while using it 😛
 
 ## Hardware Info
 |Hardware|Specifications|
