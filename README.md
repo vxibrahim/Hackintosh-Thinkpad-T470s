@@ -53,4 +53,5 @@ NOTE: Rarely it won't shutdown due to some glitch, it keeps restarting instead, 
  - [Dortania's open-core guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
  My thinkpad running Monterey :DDD
+ 
  ![Laptop picture](https://i.ibb.co/pp648RY/thinkpad.jpg)
