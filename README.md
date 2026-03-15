@@ -5,7 +5,7 @@ Hackintosh Lenovo Thinkpad T470's created with Dortania's open core guide, runni
 
 ![Monterey Screenshot](https://i.postimg.cc/ZqMxFFtt/Screen-Shot-2026-03-16-at-1-07-14-AM.png)
 
-Personally, I will recommend you to make your own EFI as that way you will actually learn how to fix issues that come up, this is a shortcut and teaches you nothing and might leave you confused if you encounter issues. You can download it as a ZIP file or go through the repo to pick specific files.
+Personally, I will recommend you to make your own EFI like I did using [Dortania's open-core guide](https://dortania.github.io/OpenCore-Install-Guide/) as that way you will actually learn how to fix issues that come up, this is a shortcut and teaches you nothing and might leave you confused if you encounter issues. You can download it as a ZIP file or go through the repo to pick specific files.
 
 ## DETAILS (IMPORTANT)
 :warning: USE PROPERTREE TO EDIT **CONFIG.PLIST** AND USE **GENSMBIOS** TO PUT YOUR OWN **PLATFORM ID INFORMATION**, without it **YOU CANNOT SIGN IN TO APPLE SERVICES**
