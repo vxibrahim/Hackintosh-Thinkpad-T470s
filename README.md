@@ -5,7 +5,7 @@
 # EFI for Hackintosh-Thinkpad-T470s
 Hackintosh Lenovo Thinkpad T470's created with Dortania's open core guide, running macOS Monterey 12.7.6.
 
-![Monterey Screenshot](https://i.ibb.co/pp648RY/thinkpad.jpg)
+![Monterey Screenshot](https://9to5mac.com/wp-content/uploads/sites/6/2022/01/install-macos-monterey-beta.jpg?quality=82&strip=all)
 
 Personally, I will recommend you to make your own EFI as that way you will actually learn how to fix issues that come up, this is a shortcut and teaches you nothing and might leave you confused if you encounter issues.
 
@@ -51,3 +51,6 @@ NOTE: Rarely it won't shutdown due to some glitch, it keeps restarting instead, 
 
 ## Acknowledgements
  - [Dortania's open-core guide](https://dortania.github.io/OpenCore-Install-Guide/)
+
+ My thinkpad running Monterey :DDD
+ ![Laptop picture](https://i.ibb.co/pp648RY/thinkpad.jpg)
