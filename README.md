@@ -9,8 +9,11 @@ Personally, I will recommend you to make your own EFI as that way you will actua
 
 ## DETAILS (IMPORTANT)
 :warning: USE PROPERTREE TO EDIT **CONFIG.PLIST** AND USE **GENSMBIOS** TO PUT YOUR OWN **PLATFORM ID INFORMATION**, without it **YOU CANNOT SIGN IN TO APPLE SERVICES**
+
 :warning: This is not a complete EFI, donot use as is, just replace the folders in your own efi with mine when using (USE UR BRAIN)
+
 :warning: Please do read the hardware info before attempting to use EFI, good chance of not working if it doesnt match (except ram and storage etc)
+
 :warning: I am not responsible for responsible for any broken laptops if you mess it up while using it 😛
 
 ## Hardware Info
