@@ -32,7 +32,7 @@ Personally, I will recommend you to make your own EFI like I did using [Dortania
 
 - iServices (iCloud, iMessage, Facetime, Photos, etc)
 - Laptop keyboard (with backlight) & touchpad (with gestures)
-- Sleep/wake (sometimes touchpad doesnt work after long sleep, just restart)
+- Sleep/wake
 - GPU acceleration
 - Mic and Audio (Issue and temporary fix listed below)
 - Volume and brightness keys
@@ -43,13 +43,14 @@ Personally, I will recommend you to make your own EFI like I did using [Dortania
 
 ## Current issues
 
-- Dual Batteries are not working, I have the right kexts to my knowledge but still haven't been able to get it to work.
+- Dual Batteries are not working from what I think, I can't get a full readout of both batteries it only shows one and the battery life seems worse than on windows so I think its not working. Will attempt to fix.
 - Touch screen is not working, although that should be an easy fix.
 - Audio is working, but is very low through the speakers, have to use eqMac to boost it. The BT and 3.5mm audio is working fine though.
 - Wifi disconnects randomly/hard to connect, have to go to Network preferences > Advanced > TCP/IP and renew DCHP license for it to work.
 - Airdrop is not working but that is due to the card being incompatible with AWDL.
 
-  
+NOTE: Sometimes touchpad doesnt work after long sleep, just force restart the laptop or open terminal from keyboard, sometimes it reactivates the touchpad driver without restarting.
+
 NOTE: Rarely it won't shutdown due to some glitch, it keeps restarting instead, just reset the NVRAM and it'll be fixed.
 
 ## Acknowledgements
